@@ -1,0 +1,86 @@
+{
+  "videos": [
+    {
+      "caption": "Illuminati",
+      "image": "https://i.ytimg.com/vi/tOM-nWPcR4U/maxresdefault.jpg",
+      "url": "https://www.youtube.com/embed/tOM-nWPcR4U",
+      "id": 1
+    },
+    {
+      "caption": "Neela Nilave",
+      "image": "https://i.ytimg.com/vi/nYEoxne_20Y/maxresdefault.jpg",
+      "url": "https://www.youtube.com/embed/nYEoxne_20Y",
+      "id": 2
+    },
+    {
+      "caption": "LEO ",
+      "image": "https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfAjTWV_un8QDeuY6BOHfenHF5tL3Jf4e9HiVapqaznk2WmVuB36GxTCCIOvjKgPMi9EVm7YhFwA2_rn7f8sMPhJdC_O1rBG57ka.jpg?r=c57",
+      "url": "https://www.youtube.com/embed/3wDiqlTNlfQ",
+      "id": 3
+    },
+    {
+      "caption": "King of Kotha",
+      "image": "https://m.media-amazon.com/images/M/MV5BYzI3ZGEzM2EtNmU3ZC00YTE2LTg4ZDctMjcxNjliOTBlYjkyXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_FMjpg_UX1000_.jpg",
+      "url": "https://www.youtube.com/embed/VzT2xurZrbI",
+      "id": 4
+    },
+    {
+      "caption": "ANIMAL",
+      "image": "https://content.tupaki.com/en/feeds/2023/12/01/212181-animal.webp",
+      "url": "https://www.youtube.com/embed/PmdyY38g6Rg",
+      "id": 5
+    }
+  ],
+  "category": [
+    {
+      "CategoryName": "Tamil songs",
+      "allVideo": [
+        {
+          "caption": "LEO ",
+          "image": "https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfAjTWV_un8QDeuY6BOHfenHF5tL3Jf4e9HiVapqaznk2WmVuB36GxTCCIOvjKgPMi9EVm7YhFwA2_rn7f8sMPhJdC_O1rBG57ka.jpg?r=c57",
+          "url": "https://www.youtube.com/embed/3wDiqlTNlfQ",
+          "id": 3
+        }
+      ],
+      "id": 1
+    },
+    {
+      "CategoryName": "Hindi songs",
+      "allVideo": [
+        {
+          "caption": "ANIMAL",
+          "image": "https://content.tupaki.com/en/feeds/2023/12/01/212181-animal.webp",
+          "url": "https://www.youtube.com/embed/PmdyY38g6Rg",
+          "id": 5
+        }
+      ],
+      "id": 2
+    },
+    {
+      "CategoryName": "Malayalam song",
+      "allVideo": [
+        {
+          "caption": "Illuminati",
+          "image": "https://i.ytimg.com/vi/tOM-nWPcR4U/maxresdefault.jpg",
+          "url": "https://www.youtube.com/embed/tOM-nWPcR4U",
+          "id": 1
+        }
+      ],
+      "id": 3
+    }
+  ],
+  "history": [
+    {
+      "caption": "LEO ",
+      "url": "https://www.youtube.com/embed/3wDiqlTNlfQ",
+      "timeStamp": "25/06/2024, 10:22:14",
+      "id": 1
+    },
+    {
+      "caption": "Neela Nilave",
+      "url": "https://www.youtube.com/embed/nYEoxne_20Y",
+      "timeStamp": "26/06/2024, 09:05:45",
+      "id": 2
+    }
+  ]
+}
